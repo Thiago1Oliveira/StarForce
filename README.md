@@ -5,10 +5,9 @@
 
 StarForce é um jogo 2D de nave com história de herói, voltado para dispositivos mobile. O jogo utiliza a engine Unity e foi desenvolvido pelos seguintes membros do grupo:
 
+## Demonstração do Projeto
 
-
-![Demonstração do Projeto](Demo/starforce1.mp4)
-
+[![Demonstração do Projeto](https://img.youtube.com/vi/5urBpWy8pWI/0.jpg)](https://drive.google.com/file/d/1Wx6y4lcci42arAyykl1QIqa-u4hjuCG7/view?usp=sharing)
 
 
 
