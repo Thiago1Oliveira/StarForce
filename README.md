@@ -7,7 +7,7 @@ StarForce é um jogo 2D de nave com história de herói, voltado para dispositiv
 
 ## Demonstração do Projeto Click para ver o video 
 
-[![Demonstração do Projeto](https://img.youtube.com/vi/5urBpWy8pWI/0.jpg)](https://drive.google.com/file/d/1Wx6y4lcci42arAyykl1QIqa-u4hjuCG7/view?usp=sharing)
+[![Demonstração do Projeto](https://img.youtube.com/vi/5urBpWy8pWI/0.jpg)](https://youtu.be/5urBpWy8pWI)
 
 
 
